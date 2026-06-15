@@ -27,8 +27,8 @@ python network_sniffer.py
 
 Sample Output:
 Packet Captured
-Source IP: 142.250.82.211
-Destination IP: 192.168.0.109
+Source IP: 192.168.1.4 
+Destination IP: 192.168.1.4
 Protocol: 17
 
 Learning Outcomes:
